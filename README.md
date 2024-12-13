@@ -1,4 +1,4 @@
-## Sobre o Projeto 
+## BLOG
 
 Este é um projeto desenvolvido com **React.js** 🔧, que integra outras tecnologias para colocar em prática conceitos importantes de desenvolvimento web. As principais ferramentas utilizadas foram:  
 
